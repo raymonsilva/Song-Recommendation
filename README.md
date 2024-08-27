@@ -2,7 +2,7 @@
 
 Um sistema de recomendação de musicas com Machine Learning e uso da API do Last FM
 
-Foi usado no desenvolvimento desse sistema Python, Pandas, scikit-lear, Flask, Tenacity
+Foi usado no desenvolvimento desse sistema Python, Pandas, scikit-learn, Flask, Tenacity
 
 # Sobre o projeto
 Desenvolvi uma aplicação a qual treina um modelo por meio de um arquivo CSV com várias músicas e sempre que requisitado uma música ele recomenda músicas parecidas e se essa música não estiver no arquivo CSV ela e adicionada automaticamente com os parâmetros necessários para o aprendizado do modelo ela busca informações das músicas com base na API do Last Fm assim retornando dados como gênero, álbum, numero de ouvintes, tags e track_id.
