@@ -7,6 +7,7 @@ Foi usado no desenvolvimento desse sistema Python, Pandas, scikit-lear, Flask, T
 # Sobre o projeto
 Desenvolvi uma aplicação a qual treina um modelo atraves de um arquivo csv com varias musicas e sempre que requsitado uma musica ele recomenda musicas parecidas e se essa musica não estiver no arquivo csv ela e adicionada automaticamente com os parametros necessarios para o aprendizado do modelo ela busca informações das musicas com base na API do Last Fm assim retornando dados como genero, album, numero de ouvintes, tags e track_id
 Foi usado para teste o Postman, atraves de uma requisição e retornado os nomes das musicas 
+
 ![image](https://github.com/user-attachments/assets/b5e646ac-96a4-41c0-9378-a8a94f7b72a6)
 
 
