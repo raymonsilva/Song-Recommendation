@@ -5,7 +5,7 @@ Um sistema de recomendação de musicas com Machine Learning e uso da API do Las
 Foi usado no desenvolvimento desse sistema Python, Pandas, scikit-learn, Flask, Tenacity
 
 # Sobre o projeto
-Desenvolvi uma aplicação a qual treina um modelo por meio de um arquivo CSV com várias músicas e sempre que requisitado uma música ele recomenda músicas parecidas e se essa música não estiver no arquivo CSV ela e adicionada automaticamente com os parâmetros necessários para o aprendizado do modelo ela busca informações das músicas com base na API do Last Fm assim retornando dados como gênero, álbum, numero de ouvintes, tags e track_id.
+Desenvolvi uma aplicação a qual treina um modelo por meio de um arquivo CSV com várias músicas, e, sempre que requisitada uma música, ele recomenda músicas parecidas. Se essa música não estiver no arquivo CSV, ela é adicionada automaticamente com os parâmetros necessários para o aprendizado do modelo. A aplicação busca informações das músicas com base na API do Last.fm, retornando dados como gênero, álbum, número de ouvintes, tags e track_id
 
 Foi usado para teste o Postman, através de uma requisição, e retornando os nomes das músicas. 
 
